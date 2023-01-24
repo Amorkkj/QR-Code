@@ -8,7 +8,6 @@ section {
     width: 100%;
     height: 100vh;
     background-color: hsl(212, 45%, 89%);
-    align-self: center;
     justify-content: center;
     align-items: center;
 }
