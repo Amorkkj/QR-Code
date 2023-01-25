@@ -29,14 +29,14 @@ section {
 
 }
 
-.text1 {
+.title {
     font-weight: bold;
     font-size: 25px;
     text-align: center;
-    margin-bottom: 5px;
+    margin-bottom: 15px;
 }
 
-.text2 {
+.text {
     text-align: center;
     font-weight: 300;
     margin-bottom: 25px;
